@@ -1,5 +1,6 @@
 # Project Responsive Web Design using Bootstrap
-## Date:27-12-2024
+## Name: PRIYANKA P
+## REG NO: 212224230212
 
 ## AIM:
 To create a simplified clone of Dribbble (https://dribbble.com/) landing page.
